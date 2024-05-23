@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository:  696960135893.dkr.ecr.eu-west-1.amazonaws.com/postgressv1
-  tag: 'latest'
+  tag: ffce4b17b08a1db405b8bc92faaf0f390e24a97a
   pullPolicy: Always
 
 service:
